@@ -1,0 +1,3 @@
+# 复制为同目录的 账号.txt，再替换下面两行；请用 UTF-8 保存。
+YOUR_CC_ACCOUNT
+YOUR_CC_PASSWORD
