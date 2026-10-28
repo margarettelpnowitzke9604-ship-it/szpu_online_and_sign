@@ -1,5 +1,7 @@
 # SZPU 校园网上网与 CC 签到工具
 
+这个项目可以帮助你节省重复的输入账号签到和上网，一键点击即可完成。
+
 两个互相独立、按需运行的 Windows 小工具。可在 [GitHub 仓库](https://github.com/margarettelpnowitzke9604-ship-it/szpu_online_and_sign) 点击 **Code → Download ZIP** 下载，解压后按下面步骤配置。
 
 GitHub 下载包解压后的目录可能叫 `szpu_online_and_sign-main`，以本机实际目录为准。
